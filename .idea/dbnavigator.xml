@@ -37,6 +37,7 @@
     <mapping file-url="file://$PROJECT_DIR$/tasks/where/task3.sql" connection-id="fe85dfa3-5140-477e-9304-d6f7f951a08f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/tasks/where/task4.sql" connection-id="fe85dfa3-5140-477e-9304-d6f7f951a08f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/tasks/where/task2.sql" connection-id="fe85dfa3-5140-477e-9304-d6f7f951a08f" session-id="MAIN" current-schema="public" />
+    <mapping file-url="file://$PROJECT_DIR$/tasks/where/task10.sql" connection-id="fe85dfa3-5140-477e-9304-d6f7f951a08f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/tasks/where/task6.sql" connection-id="fe85dfa3-5140-477e-9304-d6f7f951a08f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/tasks/where/task7.sql" connection-id="fe85dfa3-5140-477e-9304-d6f7f951a08f" session-id="MAIN" current-schema="public" />
     <mapping file-url="file://$PROJECT_DIR$/tasks/where/task5.sql" connection-id="fe85dfa3-5140-477e-9304-d6f7f951a08f" session-id="MAIN" current-schema="public" />
